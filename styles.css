@@ -1,0 +1,178 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    background-color: #00957c;
+    color: #fff;
+    overflow-x: hidden;
+}
+
+/******Navbar******/
+.navbar-nav .nav-link.active,
+.nav-link {
+    color: #fff;
+}
+
+.nav-link {
+    margin: 0 1rem;
+}
+
+.navbar-brand {
+    color: #fff;
+    font-family: "Mochiy Pop One", sans-serif;
+    font-size: 2rem;
+}
+
+.map-mark {
+    text-align: right;
+}
+
+.map-marker {
+    color: yellow;
+}
+
+.nav-links {
+    position: relative;
+    left: 26%;
+}
+/******Title******/
+.title {
+    padding: 5% 10%;
+}
+
+.big-heading {
+    font-family: "Mochiy Pop One", sans-serif;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    width: 20rem;
+}
+
+.subtext {
+    width: 15rem;
+    color: #dbd4d4;
+}
+
+.greenlays {
+    width: 70%;
+    transform: rotate(15deg);
+}
+
+.btn {
+    font-family: "Montserrat", sans-serif;
+    border-radius: 20px;
+    margin: 5px 1rem 0 0;
+}
+
+/******Features******/
+#features {
+    background-color: #00897b;
+    border-radius: 8rem;
+    text-align: center;
+    padding: 5% 10%;
+}
+
+h3 {
+    font-family: "Mochiy Pop One", sans-serif;
+    font-size: 2rem;
+    width: 33rem;
+    text-align: center;
+    margin: 0 auto;
+}
+
+#features .subtext {
+    text-align: center;
+    width: 33rem;
+    margin: 3rem auto;
+}
+
+.flavors {
+    margin: 10% 0;
+}
+
+/******Features******/
+.health-benifts {
+    background-color: #ffc107;
+    padding: 5%;
+    text-align: center;
+}
+
+.healthtext {
+    display: inline-block;
+    width: auto;
+}
+
+.fa-seedling,
+.fa-heartbeat {
+    font-size: 50px;
+    margin: 0 5%;
+}
+
+/******Data******/
+#data {
+    padding: 5% 10%;
+}
+
+.testimonial-heading {
+    width: 40rem;
+    margin: 0 auto;
+}
+
+.testimonial-subtext {
+    width: 35rem;
+    margin: 2% auto 10%;
+    text-align: center;
+}
+
+/******Testimonials******/
+#testimonials {
+    background-color: #ffc107;
+    border-radius: 5rem;
+    text-align: center;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+    text-align: center;
+}
+
+.text {
+    font-family: "Montserrat";
+    line-height: 1.5;
+    text-align: center;
+}
+
+.testimonial-image {
+    width: 15%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+/******Try Now******/
+#try-now {
+    background-color: #00897b;
+    border-radius: 5rem;
+    text-align: center;
+    padding: 5% 10% 1%;
+}
+
+.trynow-logo {
+    background-color: #ffc107;
+    border-radius: 5rem;
+    width: 25rem;
+    margin: 5% auto;
+    padding: 5%;
+    font-size: 3rem;
+}
+
+.trynow-text {
+    width: auto;
+}
+
+/******Footer******/
+#footer {
+    text-align: center;
+    margin: 30px auto 5px;
+}
+
+.footer-text {
+    margin: 0 9%;
+}
